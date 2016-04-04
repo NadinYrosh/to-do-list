@@ -1,12 +1,10 @@
-#show-place {
-  display: none;
-}
-
 #list {
   cursor: pointer;
   color: #0088cc;
 }
 
-#list:hover {
+#list li:hover {
   text-decoration: underline;
 }
+
+.item
